@@ -1,2 +1,3 @@
 # trial
-for study purpose
+for study purpose only
+
